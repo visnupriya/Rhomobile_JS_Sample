@@ -1,0 +1,9 @@
+rhodes_path='D:/MotorolaRhoMobileSuite4.0.0.beta.15/ruby/lib/ruby/gems/1.9.1/gems/rhodes-4.0.0'
+app_version='1.0'
+app_name='sample_js_app_beta59'
+reload_app_changes=1
+debug_port=
+debug_host='127.0.0.1'
+platform='android'
+os_version='2.3.3'
+ext_path=D:/MotorolaRhoMobileSuite4.0.0.beta.15/ruby/lib/ruby/gems/1.9.1/gems/rhodes-4.0.0/lib/commonAPI/coreapi;D:/MotorolaRhoMobileSuite4.0.0.beta.15/ruby/lib/ruby/gems/1.9.1/gems/rhodes-4.0.0/lib/extensions/json;D:/MotorolaRhoMobileSuite4.0.0.beta.15/ruby/lib/ruby/gems/1.9.1/gems/rhoconnect-client-4.0.0.beta.59/lib/../ext/rhoconnect-client;

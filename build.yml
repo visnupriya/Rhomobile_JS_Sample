@@ -1,0 +1,24 @@
+#sdk: "D:/MotorolaRhoMobileSuite4.0.0.beta.15/ruby/lib/ruby/gems/1.9.1/gems/rhodes-4.0.0.beta.59"
+sdkversion: 4.0.0
+name: sample_js_app_beta59
+version: 1.0
+vendor: rhomobile
+build: debug
+bbver: 6.0
+applog: rholog.txt
+iphone:
+  configuration: Release
+  sdk: iphonesimulator6.0
+  provisionprofile:
+  codesignidentity:
+  entitlements:
+  BundleIdentifier: com.rhomobile.samplejsappbeta59
+  BundleURLScheme: samplejsappbeta59
+wp:
+  productid: '546b9290-f81d-0130-316c-5eac4c896530'
+symbian:
+  uid: '0xea4e3e89'
+android:
+  version: 2.3.3
+
+extensions: ["rhoconnect-client"]
